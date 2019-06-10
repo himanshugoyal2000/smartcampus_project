@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smartcampus_project/static/css/main.e739769c.chunk.css",
+    "main.js": "/smartcampus_project/static/js/main.5b6bae82.chunk.js",
+    "main.js.map": "/smartcampus_project/static/js/main.5b6bae82.chunk.js.map",
+    "runtime~main.js": "/smartcampus_project/static/js/runtime~main.9561a2a6.js",
+    "runtime~main.js.map": "/smartcampus_project/static/js/runtime~main.9561a2a6.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/smartcampus_project/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/smartcampus_project/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/smartcampus_project/index.html",
+    "precache-manifest.427982bf988ed5720755e53f85005aad.js": "/smartcampus_project/precache-manifest.427982bf988ed5720755e53f85005aad.js",
+    "service-worker.js": "/smartcampus_project/service-worker.js",
+    "static/css/main.e739769c.chunk.css.map": "/smartcampus_project/static/css/main.e739769c.chunk.css.map",
+    "static/media/pic.jpg": "/smartcampus_project/static/media/pic.81bfa4e1.jpg"
+  }
+}
